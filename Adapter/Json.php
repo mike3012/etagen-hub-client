@@ -1,6 +1,6 @@
 <?php
 
-namespace EtagenHubClient\Adapter;
+namespace EtagenHubClientBundle\Adapter;
 
 class Json
 {

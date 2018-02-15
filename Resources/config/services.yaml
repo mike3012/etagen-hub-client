@@ -1,0 +1,6 @@
+services:
+    etagen.clientbundle.adapter.json:
+        class: 'EtagenHubClientBundle\Adapter\json'
+        public: false
+        tags: ['etagen.hub.adapter']
+

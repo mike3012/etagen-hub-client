@@ -1,11 +1,11 @@
 {
     "name": "mike3012/etagen-hub-client",
-    "type": "library",
+    "type": "symfony-bundle",
     "description": "a Client for the hub.",
     "require": {},
     "autoload": {
         "psr-4": {
-            "EtagenHubClient\\": "src/"
+            "EtagenHubClientBundle\\": ""
         }
     }
 }
