@@ -12,6 +12,6 @@ class Json
 
     public function format($data) : string
     {
-        return json_encode($data);
+        return "Whooho, i'm a thirdparty Adapter!";//json_encode($data);
     }
 }
