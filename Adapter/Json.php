@@ -2,7 +2,7 @@
 
 namespace EtagenHubClientBundle\Adapter;
 
-class Json
+class Json implements App\Components\Adapter\AdapterInterface
 {
 
     public function parse($data)
